@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+flask
+pydantic 
+streamlit 
+requests
+transformers 
+torch 
+accelerate 
+sentencepiece
+
